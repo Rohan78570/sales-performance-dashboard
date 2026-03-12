@@ -17,4 +17,4 @@ This project analyzes sales performance using Power BI.
 - sales_performance_data.xlsx
 - dashboard_screenshot.png
 ## Dashboard Preview
-![Dashboard](dashboard scrrenshot.png)
+dashboard scrrenshot.png
